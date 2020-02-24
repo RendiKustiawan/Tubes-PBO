@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Database<TUBESPBO_2948946>",
+            "request": "launch",
+            "mainClass": "tubes_pbo.Database",
+            "projectName": "TUBESPBO_2948946"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-frame_LOGIN<TUBESPBO_2948946>",
+            "request": "launch",
+            "mainClass": "tubes_pbo.frame_LOGIN",
+            "projectName": "TUBESPBO_2948946"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-frame_MAINMENU<TUBESPBO_2948946>",
+            "request": "launch",
+            "mainClass": "tubes_pbo.frame_MAINMENU",
+            "projectName": "TUBESPBO_2948946"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-frame_PLAYING<TUBESPBO_2948946>",
+            "request": "launch",
+            "mainClass": "tubes_pbo.frame_PLAYING",
+            "projectName": "TUBESPBO_2948946"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-frame_REGISTER<TUBESPBO_2948946>",
+            "request": "launch",
+            "mainClass": "tubes_pbo.frame_REGISTER",
+            "projectName": "TUBESPBO_2948946"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-frame_UPCOMING<TUBESPBO_2948946>",
+            "request": "launch",
+            "mainClass": "tubes_pbo.frame_UPCOMING",
+            "projectName": "TUBESPBO_2948946"
+        }
+    ]
+}
